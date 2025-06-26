@@ -82,11 +82,13 @@ form {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   color: rgba(255, 255, 255, 0.959);
 }
 
 .result-div-inner {
   margin: 5px;
+  text-align: center;
 }
 
 .result-div-inner img {
